@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Krishnendu Dey  
-- 👀 I’m interested in Data Science, Machine Learning and AI
-- 🌱 I’m currently learning Gen AI and Javascript
+- 👋 Hi, I’m Krishnendu Dey
+- 💻 I'm a Tech Consultant at PwC, India. https://www.pwc.in/
+- 👀 I’m working in the field of Data Science, Machine Learning and AI
+- 🌱 I’m currently learning Gen AI, Javascript and DSA.
 - 📫 Reach me : kd.datascience@gmail.com
 
 <!---
