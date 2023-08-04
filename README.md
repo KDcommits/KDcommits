@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working at [PwC India](https://www.pwc.in/)
 
-- 🌱 I’m currently learning **Gen AI, DSA and Javascript**
+- 🌱 I’m currently learning **Gen AI, DSA and Time Management**
 
 - 💬 Ask me about **Data science, AI, ML, DL**
 
